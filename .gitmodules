@@ -58,3 +58,15 @@
 [submodule "mysql/debian-11"]
 	path = mysql/debian-11
 	url = git@github.com:raasss/docker-mysql-debian-11.git
+[submodule "apache/ubuntu-20.10"]
+	path = apache/ubuntu-20.10
+	url = git@github.com:raasss/docker-apache-ubuntu-20.10.git
+[submodule "mariadb/ubuntu-20.10"]
+	path = mariadb/ubuntu-20.10
+	url = git@github.com:raasss/docker-mariadb-ubuntu-20.10.git
+[submodule "mysql/ubuntu-20.10"]
+	path = mysql/ubuntu-20.10
+	url = git@github.com:raasss/docker-mysql-ubuntu-20.10.git
+[submodule "php-fpm/ubuntu-20.10"]
+	path = php-fpm/ubuntu-20.10
+	url = git@github.com:raasss/docker-php-fpm-ubuntu-20.10.git

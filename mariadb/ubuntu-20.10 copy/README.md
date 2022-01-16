@@ -1,1 +1,0 @@
-# docker-mariadb-ubuntu-20.10
