@@ -10,36 +10,24 @@
 [submodule "php-fpm/ubuntu-20.04"]
 	path = php-fpm/ubuntu-20.04
 	url = git@github.com:raasss/docker-php-fpm-ubuntu-20.04.git
-[submodule "apache/ubuntu-20.10"]
-	path = apache/ubuntu-20.10
-	url = git@github.com:raasss/docker-apache-ubuntu-20.10.git
 [submodule "apache/ubuntu-21.04"]
 	path = apache/ubuntu-21.04
 	url = git@github.com:raasss/docker-apache-ubuntu-21.04.git
 [submodule "apache/ubuntu-21.10"]
 	path = apache/ubuntu-21.10
 	url = git@github.com:raasss/docker-apache-ubuntu-21.10.git
-[submodule "php-fpm/ubuntu-20.10"]
-	path = php-fpm/ubuntu-20.10
-	url = git@github.com:raasss/docker-php-fpm-ubuntu-20.10.git
 [submodule "php-fpm/ubuntu-21.04"]
 	path = php-fpm/ubuntu-21.04
 	url = git@github.com:raasss/docker-php-fpm-ubuntu-21.04.git
 [submodule "php-fpm/ubuntu-21.10"]
 	path = php-fpm/ubuntu-21.10
 	url = git@github.com:raasss/docker-php-fpm-ubuntu-21.10.git
-[submodule "mariadb/ubuntu-20.10"]
-	path = mariadb/ubuntu-20.10
-	url = git@github.com:raasss/docker-mariadb-ubuntu-20.10.git
 [submodule "mariadb/ubuntu-21.04"]
 	path = mariadb/ubuntu-21.04
 	url = git@github.com:raasss/docker-mariadb-ubuntu-21.04.git
 [submodule "mariadb/ubuntu-21.10"]
 	path = mariadb/ubuntu-21.10
 	url = git@github.com:raasss/docker-mariadb-ubuntu-21.10.git
-[submodule "mysql/ubuntu-20.10"]
-	path = mysql/ubuntu-20.10
-	url = git@github.com:raasss/docker-mysql-ubuntu-20.10.git
 [submodule "mysql/ubuntu-21.04"]
 	path = mysql/ubuntu-21.04
 	url = git@github.com:raasss/docker-mysql-ubuntu-21.04.git
