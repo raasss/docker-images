@@ -46,15 +46,9 @@
 [submodule "mariadb/debian-10"]
 	path = mariadb/debian-10
 	url = git@github.com:raasss/docker-mariadb-debian-10.git
-[submodule "mysql/debian-10"]
-	path = mysql/debian-10
-	url = git@github.com:raasss/docker-mysql-debian-10.git
 [submodule "php-fpm/debian-11"]
 	path = php-fpm/debian-11
 	url = git@github.com:raasss/docker-php-fpm-debian-11.git
 [submodule "mariadb/debian-11"]
 	path = mariadb/debian-11
 	url = git@github.com:raasss/docker-mariadb-debian-11.git
-[submodule "mysql/debian-11"]
-	path = mysql/debian-11
-	url = git@github.com:raasss/docker-mysql-debian-11.git
