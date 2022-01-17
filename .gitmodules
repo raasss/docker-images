@@ -55,3 +55,6 @@
 [submodule "apache/centos-7"]
 	path = apache/centos-7
 	url = git@github.com:raasss/docker-apache-centos-7.git
+[submodule "apache/centos-8"]
+	path = apache/centos-8
+	url = git@github.com:raasss/docker-apache-centos-8.git
