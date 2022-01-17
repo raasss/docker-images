@@ -52,3 +52,6 @@
 [submodule "mariadb/debian-11"]
 	path = mariadb/debian-11
 	url = git@github.com:raasss/docker-mariadb-debian-11.git
+[submodule "apache/centos-7"]
+	path = apache/centos-7
+	url = git@github.com:raasss/docker-apache-centos-7.git
