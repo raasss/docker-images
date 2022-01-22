@@ -3,3 +3,4 @@
 - make README.repository.md dynamically from template parts in README.repository.md.d/ directory
 - run apache process in apache container with UID of user on host system
 - make PHP_* environment variables in apache docker image more generic like FASTCGI_*
+- add slack notifications for pushing READMEs
