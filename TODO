@@ -1,0 +1,1 @@
+- add support for custom user init scripts mounted as host filesystem to /docker-entrypoint.d/ directory inside docker image
