@@ -1,3 +1,5 @@
 - add support for custom user init scripts mounted as host filesystem to /docker-entrypoint.d/ directory inside docker image
 - for php-fpm, stop using php.ini, www.conf and php-fpm.conf. Instead, use default files customized via predefined environment variables
 - make README.repository.md dynamically from template parts in README.repository.md.d/ directory
+- run apache process in apache container with UID of user on host system
+- make PHP_* environment variables in apache docker image more generic like FASTCGI_*
