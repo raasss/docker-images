@@ -1,1 +1,2 @@
 - add support for custom user init scripts mounted as host filesystem to /docker-entrypoint.d/ directory inside docker image
+- for php-fpm, stop using php.ini, www.conf and php-fpm.conf. Instead, use default files customized via predefined environment variables
